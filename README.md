@@ -1,4 +1,4 @@
-# Jetson Copilot
+# Advantech Copilot
 
 ![](./JC-Banner_1280x480.png)
 
